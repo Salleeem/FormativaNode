@@ -74,3 +74,15 @@ Desenvolver uma aplicação de To-Do List utilizando React para o frontend e Nod
   - Desenvolvedor Frontend
   - UX/UI Designer
   - Gerente de Projeto
+ 
+#Desenvolvimento
+
+-Fluxograma
+
+
+
+-Diagrama de Classes
+
+
+
+-Diagrama de Uso
